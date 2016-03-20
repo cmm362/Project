@@ -1,0 +1,53 @@
+Experiment,Treatment,Sample,Day,Sequencing_ID,_
+CM002.2,Control,1,0,CM001,_
+CM002.2,Control,2,0,CM002,_
+CM002.2,Control,3,0,CM003,_
+CM002.2,Treatment,1,0,CM004,_
+CM002.2,Treatment,2,0,CM005,_
+CM002.2,Treatment,3,0,CM006,_
+CM002.2,Control,1,3,CM007,_
+CM002.2,Control,2,3,CM008,_
+CM002.2,Control,3,3,CM009,_
+CM002.2,Treatment,1,3,CM010,_
+CM002.2,Treatment,2,3,CM011,_
+CM002.2,Treatment,3,3,CM012,_
+CM002.2,Control,1,7,CM013,_
+CM002.2,Control,2,7,CM014,_
+CM002.2,Control,3,7,CM015,_
+CM002.2,Treatment,1,7,CM016,_
+CM002.2,Treatment,2,7,CM017,_
+CM002.2,Treatment,3,7,CM018,_
+CM002.2,Control,1,14,CM019,_
+CM002.2,Control,2,14,CM020,_
+CM002.2,Control,3,14,CM021,_
+CM002.2,Treatment,1,14,CM022,_
+CM002.2,Treatment,2,14,CM023,_
+CM002.2,Treatment,3,14,CM024,_
+CM003,Control,1,-14,CM025,_
+CM003,Control,2,-14,CM026,_
+CM003,Control,3,-14,CM027,_
+CM003,Treatment,2,-14,CM028,_
+CM003,Treatment,3,-14,CM029,_
+CM003,Treatment,1,-14,CM030,_
+CM003,Control Male,1,-14,CM031,_
+CM003,Treatment Male,1,-14,CM032,_
+CM003,Control,1,0,CM033,_
+CM003,Control,2,0,CM034,_
+CM003,Control,3,0,CM035,_
+CM003,Treatment,2,0,CM036,_
+CM003,Treatment,3,0,CM037,_
+CM003,Treatment,1,0,CM038,_
+CM003,Control Male,1,0,CM039,_
+CM003,Treatment Male,1,0,CM040,_
+CM003,Control,1,7,CM041,_
+CM003,Control,2,7,CM042,_
+CM003,Control,3,7,CM043,_
+CM003,Treatment,2,7,CM044,_
+CM003,Treatment,3,7,CM045,_
+CM003,Treatment,1,7,CM046,_
+CM003,Control,1,14,CM047,_
+CM003,Control,2,14,CM048,_
+CM003,Control,3,14,CM049,_
+CM003,Treatment,2,14,CM050,_
+CM003,Treatment,3,14,CM051,_
+CM003,Treatment,1,14,CM052,_
